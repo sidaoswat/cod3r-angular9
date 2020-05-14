@@ -1,0 +1,18 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Caneta Esmeralda",
+        "price": 5.92
+    }, 
+    {
+        "id": 2,
+        "name": "Macbook Pro",
+        "price": 8.950
+    }, 
+    {
+        "id": 3,
+        "name": "Moto G4 - Plus",
+        "price": 750.12
+    }
+  ]
+}

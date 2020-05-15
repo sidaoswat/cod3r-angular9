@@ -30,7 +30,7 @@ export class ProductDeleteComponent implements OnInit {
       .subscribe((product: Product) => {
         this.productService.showMessage('Produto excluído com sucesso!');
         this.router.navigate(['/products']);
-      })  
+      });  
   }
 
   public cancel(): void {

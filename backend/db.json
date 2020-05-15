@@ -1,18 +1,39 @@
 {
-    "products": [{
-        "id": 1,
-        "name": "Caneta Esmeralda",
-        "price": 5.92
-    }, 
+  "products": [
     {
-        "id": 2,
-        "name": "Macbook Pro",
-        "price": 8.950
-    }, 
+      "id": 1,
+      "name": "Caneta Esmeralda",
+      "price": 5.92
+    },
     {
-        "id": 3,
-        "name": "Moto G4 - Plus",
-        "price": 750.12
+      "id": 2,
+      "name": "Macbook Pro",
+      "price": 8.95
+    },
+    {
+      "id": 3,
+      "name": "Moto G4 - Plus",
+      "price": 750.12
+    },
+    {
+      "name": "Produto de Teste Será?",
+      "price": "125.54",
+      "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "1976.80",
+      "id": 5
+    },
+    {
+      "name": "Ventilado",
+      "price": "145",
+      "id": 6
+    },
+    {
+      "name": "new product",
+      "price": "123",
+      "id": 7
     }
   ]
 }

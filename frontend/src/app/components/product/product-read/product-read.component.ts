@@ -17,7 +17,7 @@ export class ProductReadComponent implements OnInit {
     this.productService.read()
       .subscribe((products: any) => {
         this.products = products;
-      });
+    });
   }
 
 }
